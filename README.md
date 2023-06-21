@@ -1,4 +1,4 @@
-# ArduinoCardDealer
+# Arduino Card Dealer
 An automatic card dealer with Arduino UNO and stepper motors.
 
 Project demonstration video [here](https://youtu.be/KEmxApv8yUg).
